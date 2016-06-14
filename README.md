@@ -24,3 +24,9 @@ for MIDI over USB (serial)
 ### Serial MIDI
 
 * http://www.spikenzielabs.com/SpikenzieLabs/Serial_MIDI.html
+
+## additional
+
+rotary encoder /w push button and a capacitive touch area is to be added after the MIDI CC value to LED matrix is working
+
+* playground.arduino.cc/Code/CapacitiveSensor
