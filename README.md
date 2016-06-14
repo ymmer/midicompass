@@ -8,3 +8,9 @@ first project in arduino
 
 * https://github.com/FastLED/FastLED
 * https://github.com/FortySevenEffects/arduino_midi_library
+
+## software necessary
+
+for MIDI over USB (serial)
+
+* http://www.spikenzielabs.com/SpikenzieLabs/Serial_MIDI.html
