@@ -5,7 +5,7 @@
 #define LED_PIN  3
 
 #define COLOR_ORDER GRB
-#define CHIPSET     WS2811
+#define CHIPSET     WS2812B
 
 #define BRIGHTNESS 64
 
@@ -27,11 +27,11 @@
 
 
 // Params for width and height
-const uint8_t kMatrixWidth = 16;
-const uint8_t kMatrixHeight = 16;
+const uint8_t kMatrixWidth = 8;
+const uint8_t kMatrixHeight = 8;
 
 // Param for different pixel layouts
-const bool    kMatrixSerpentineLayout = true;
+const bool    kMatrixSerpentineLayout = false;
 // Set 'kMatrixSerpentineLayout' to false if your pixels are 
 // laid out all running the same way, like this:
 //
