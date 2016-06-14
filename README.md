@@ -14,3 +14,7 @@ first project in arduino
 for MIDI over USB (serial)
 
 * http://www.spikenzielabs.com/SpikenzieLabs/Serial_MIDI.html
+
+might help
+
+* https://sites.google.com/site/bharatbhushankonka/home/usb-midi-footcontroler-2-0
